@@ -5,4 +5,4 @@
 - Game of thromes - George RR Martin 
 
 ## Philosophy 
-- Meditations - Marcys Aurelius 
+- [Meditations - Marcus Aurelius ](https://github.com/mtcA6/reading/blob/main/notes/meditations.md)
