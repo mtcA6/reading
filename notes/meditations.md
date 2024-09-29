@@ -4,3 +4,7 @@
 
 
 This has been sitting on my shelf for ages 
+
+
+Discipline of perception - see things for what they are
+Discipline of action 
